@@ -21,7 +21,7 @@ THE SOFTWARE.
 */
 
 
-import org.apache.cordova.api.PluginResult.Status;
+
 import org.json.JSONArray;
 import org.json.JSONException;
 
